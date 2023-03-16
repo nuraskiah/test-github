@@ -3,7 +3,7 @@ export const footer = `
     <hr class="my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-8" />
     <div class="md:flex md:items-center md:justify-between">
       <span class="text-sm text-gray-500 sm:text-center dark:text-gray-400">© 2023 <a href="/"
-          class="hover:underline">AniBox</a>. Contoh Belajar Git.
+          class="hover:underline">AniBox</a>. Website Anime.
       </span>
       <ul class="flex flex-wrap items-center mt-3 text-sm text-gray-500 dark:text-gray-400 sm:mt-0">
         <li>
